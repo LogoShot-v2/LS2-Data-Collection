@@ -11,7 +11,7 @@
       </p>
     - 商標權及關聯案件／商標申請案
       - [DTD](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/%E5%95%86%E6%A8%99%E6%AC%8A%E5%8F%8A%E9%97%9C%E8%81%AF%E6%A1%88DTD%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
-      - 資料範圍：
+      - 資料範圍：可能包含更早期的
       - 資料量：3G
       - `Issue` 載入檔案慢、無法載入
     - API 服務／商標註冊申請案
