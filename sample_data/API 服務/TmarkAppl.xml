@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE tmarkappl SYSTEM "ftp://s220ftp.tipo.gov.tw/TmarkAppl/tmarkappl-B104.1.0.dtd">
+<API>
+  <version>1.0</version>
+  <status>sampledata</status>
+  <message>驗證碼不通過，僅提供範例資料。驗證碼請洽智慧局申請。</message>
+  <top>25</top>
+  <skip>0</skip>
+  <order-by>appl-no</order-by>
+  <total-count>25</total-count>
+  <tmarkappl page-count="25" create-date="2022/3/27">
+    <tmarkcontent sequence="1">
+      <appl-no>000000001</appl-no>
+      <appl-date>1951/02/27</appl-date>
+      <tmark-name>林森</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/001/pic_000000001_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>林森</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>032</goodsclass-code>
+          <goods-name>美髮霜商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>盛香堂　許鉗</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺中市復興路170號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>陳家蔭</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="2">
+      <appl-no>000000002</appl-no>
+      <appl-date>1951/02/27</appl-date>
+      <tmark-name>林森</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/002/pic_000000002_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>林森</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>033</goodsclass-code>
+          <goods-name>面霜商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>盛香堂　許鉗</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺中市復興路170號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>陳家蔭</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="3">
+      <appl-no>000000003</appl-no>
+      <appl-date>1951/02/27</appl-date>
+      <tmark-name>日月潭</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/003/pic_000000003_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>3</tmark-color>
+      <tmark-color-desc>紅色</tmark-color-desc>
+      <tmark-draft-c>日月潭</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>271</goodsclass-code>
+          <goods-name>各支棉紗商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>台灣大秦紡織股份有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中正區南陽街8號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="4">
+      <appl-no>000000004</appl-no>
+      <appl-date>1951/03/24</appl-date>
+      <tmark-name>黑松牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/004/pic_000000004_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>2</tmark-color>
+      <tmark-color-desc>彩色</tmark-color-desc>
+      <tmark-draft-c>黑松</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>393</goodsclass-code>
+          <goods-name>汽水商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>進馨汽水有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區長安西路19巷2弄1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>涂芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="5">
+      <appl-no>000000005</appl-no>
+      <appl-date>1951/03/24</appl-date>
+      <tmark-name>黑松牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/005/pic_000000005_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c />
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>393</goodsclass-code>
+          <goods-name>汽水商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>進馨汽水有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區長安西路19巷2弄1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>涂芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="6">
+      <appl-no>000000006</appl-no>
+      <appl-date>1951/03/24</appl-date>
+      <tmark-name>黑松牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/006/pic_000000006_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>黑松</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>393</goodsclass-code>
+          <goods-name>汽水商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>進馨汽水有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區長安西路19巷2弄1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>涂芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="7">
+      <appl-no>000000007</appl-no>
+      <appl-date>1951/03/24</appl-date>
+      <tmark-name>黑松牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/007/pic_000000007_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>黑松</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>393</goodsclass-code>
+          <goods-name>汽水商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>進馨汽水有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區長安西路19巷2弄1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>涂芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="8">
+      <appl-no>000000008</appl-no>
+      <appl-date>1951/04/16</appl-date>
+      <tmark-name>八角形</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/008/pic_000000008_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>4</tmark-color>
+      <tmark-color-desc>藍色</tmark-color-desc>
+      <tmark-draft-c>八角形</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>013</goodsclass-code>
+          <goods-name>強胃散商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>資生製藥廠　劉國林</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區中山北路2段11巷1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="9">
+      <appl-no>000000009</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>冰梅</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/009/pic_000000009_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>冰梅</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>393</goodsclass-code>
+          <goods-name>汽水商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="10">
+      <appl-no>000000010</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>桂花</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/010/pic_000000010_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>桂花</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>024</goodsclass-code>
+          <goods-name>糖果商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+        <goodsclass sequence="2">
+          <goodsclass-code>432</goodsclass-code>
+          <goods-name>糖果商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="11">
+      <appl-no>000000011</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>冰梅</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/011/pic_000000011_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>冰梅</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>403</goodsclass-code>
+          <goods-name>果醬商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="12">
+      <appl-no>000000012</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>生力</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/012/pic_000000012_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>生力</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>402</goodsclass-code>
+          <goods-name>香辛料商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="13">
+      <appl-no>000000013</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>百草形</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/013/pic_000000013_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>百草</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>402</goodsclass-code>
+          <goods-name>香辛料商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="14">
+      <appl-no>000000014</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>百草</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/014/pic_000000014_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>百草</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>432</goodsclass-code>
+          <goods-name>糖果商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="15">
+      <appl-no>000000015</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>生力</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/015/pic_000000015_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>生力</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>012</goodsclass-code>
+          <goods-name>內用藥商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="16">
+      <appl-no>000000016</appl-no>
+      <appl-date>1951/04/25</appl-date>
+      <tmark-name>冰梅</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/016/pic_000000016_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>冰梅</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>394</goodsclass-code>
+          <goods-name>果汁商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>蔡生源食品工廠　蔡萬成</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區東興里第7鄰</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="17">
+      <appl-no>000000017</appl-no>
+      <appl-date>1951/03/21</appl-date>
+      <tmark-name>樂園牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/017/pic_000000017_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>2</tmark-color>
+      <tmark-color-desc>彩色</tmark-color-desc>
+      <tmark-draft-c>樂園</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>032</goodsclass-code>
+          <goods-name>髮膏商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>中南企業社　林清波</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>彰化縣彰化市中華路128號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>莊中成</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="18">
+      <appl-no>000000018</appl-no>
+      <appl-date>1951/05/18</appl-date>
+      <tmark-name>圓資</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/018/pic_000000018_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>3</tmark-color>
+      <tmark-color-desc>紅色</tmark-color-desc>
+      <tmark-draft-c>資</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>015</goodsclass-code>
+          <goods-name>苦味酊、橙皮酊、樟腦酊、芳香酊、金鷄納酊、洋地黃酊、番木酊、碘酊，陳莨菪酊、遠志酊桔梗酊、大黃酊、糖漿橙皮、糖漿、遠志糖漿、桔梗糖漿、檸檬糖漿、薄荷腦、薄荷油、東莨菪浸膏、番木浸膏、美人油、強胃散、強皮、風神、安息散商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>資生製藥廠　劉國林</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區中山北路2段11巷1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="19">
+      <appl-no>000000019</appl-no>
+      <appl-date>1951/05/11</appl-date>
+      <tmark-name>風神旗</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/019/pic_000000019_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>3</tmark-color>
+      <tmark-color-desc>紅色</tmark-color-desc>
+      <tmark-draft-c>風神</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>013</goodsclass-code>
+          <goods-name>感冒解熱藥商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>資生製藥廠　劉國林</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區中山北路2段11巷1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="20">
+      <appl-no>000000020</appl-no>
+      <appl-date>1951/05/11</appl-date>
+      <tmark-name>強皮</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/020/pic_000000020_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>強皮</tmark-draft-c>
+      <tmark-draft-e>GHIANGPI</tmark-draft-e>
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>013</goodsclass-code>
+          <goods-name>藥膏商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>資生製藥廠　劉國林</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市中山區中山北路2段11巷1號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="21">
+      <appl-no>000000021</appl-no>
+      <appl-date>1951/04/10</appl-date>
+      <tmark-name>方圓牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/021/pic_000000021_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>2</tmark-color>
+      <tmark-color-desc>彩色</tmark-color-desc>
+      <tmark-draft-c>活性炭</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>011</goodsclass-code>
+          <goods-name>活性炭商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>中華炭素工廳　林水火</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市士林區中山北路4段37號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="22">
+      <appl-no>000000022</appl-no>
+      <appl-date>1951/03/01</appl-date>
+      <tmark-name>蜈蚣</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/022/pic_000000022_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>1</tmark-color>
+      <tmark-color-desc>墨色</tmark-color-desc>
+      <tmark-draft-c>顏財</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>012</goodsclass-code>
+          <goods-name>追風膏、化痰散、打傷回元散、感冒鎮痛散、顏財補賢丸、顏財瀉靈散商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>顏財製藥房　顏財</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>彰化縣和美鎮和北里92號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents />
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="23">
+      <appl-no>000000023</appl-no>
+      <appl-date>1951/03/13</appl-date>
+      <tmark-name>富山 FUSAN</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/023/pic_000000023_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>2</tmark-color>
+      <tmark-color-desc>彩色</tmark-color-desc>
+      <tmark-draft-c />
+      <tmark-draft-e>FUSAN</tmark-draft-e>
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>013</goodsclass-code>
+          <goods-name>富山胃腸散、富山咳嗽散、富山啟腦珠、富山風藥、平安富山神藥、剛腑商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>富山製藥股份有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺南市安平區安平路6號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>凃芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="24">
+      <appl-no>000000024</appl-no>
+      <appl-date>1951/03/13</appl-date>
+      <tmark-name>富山仁美牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/024/pic_000000024_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>2</tmark-color>
+      <tmark-color-desc>彩色</tmark-color-desc>
+      <tmark-draft-c>仁美</tmark-draft-c>
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>013</goodsclass-code>
+          <goods-name>富山胃腸散、富山咳嗽散、富山啟腦珠、富山風藥、平安富山神藥、剛腑商品。</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>富山製藥股份有限公司</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺南市安平區安平路6號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>凃芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+    <tmarkcontent sequence="25">
+      <appl-no>000000025</appl-no>
+      <appl-date>1951/04/17</appl-date>
+      <tmark-name>公揚婆牌</tmark-name>
+      <tmark-class>1</tmark-class>
+      <tmark-class-desc>商標</tmark-class-desc>
+      <tmark-image-url>
+        <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/000/000/025/pic_000000025_20110105_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+        <image-data-2 />
+        <image-data-3 />
+        <image-data-4 />
+        <image-data-5 />
+        <image-data-6 />
+        <audio-filename />
+      </tmark-image-url>
+      <tmark-type />
+      <tmark-type-desc />
+      <tmark-color>3</tmark-color>
+      <tmark-color-desc>紅色</tmark-color-desc>
+      <tmark-draft-c />
+      <tmark-draft-e />
+      <tmark-draft-j />
+      <tmark-sign />
+      <word-description />
+      <receive-date />
+      <goodsclasses>
+        <goodsclass sequence="1">
+          <goodsclass-code>012</goodsclass-code>
+          <goods-name>順氣胃腸散、六合膏、八寶止痛丹、順氣姑嫂丸商品</goods-name>
+          <goods-group />
+        </goodsclass>
+      </goodsclasses>
+      <parties>
+        <applicants>
+          <applicant sequence="1">
+            <chinese-name>信發大藥房　邵來發</chinese-name>
+            <english-name />
+            <japanese-name />
+            <address>臺北市大同區太原路76巷21號</address>
+            <country-code>TW</country-code>
+            <chinese-country-name>中華民國</chinese-country-name>
+          </applicant>
+        </applicants>
+        <agents>
+          <agent sequence="1">
+            <chinese-name>凃芳輝</chinese-name>
+            <address />
+          </agent>
+        </agents>
+      </parties>
+    </tmarkcontent>
+  </tmarkappl>
+</API>
