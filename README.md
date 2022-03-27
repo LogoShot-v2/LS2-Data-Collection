@@ -1,7 +1,7 @@
 # Data-Collection
 
 ## Adding SSH Keys to GitHub Account
-- For detailed instructions, visit https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+- For detailed instructions, visit https://docs.github.com/en/authentication/connecting-to-github-with-ssh.
 ```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
 # (Don't change default file location.)
