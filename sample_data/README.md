@@ -4,6 +4,7 @@
     - 商標公報／商標註冊案公報（一案、一卷期）
       - [Document Type Definition (DTD)](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/DTD_Trademark.pdf)
       - 資料範圍：第 38 卷第 17 期（民國 100 年 9 月）至今
+      - 資料量：22G
       <p align="left">
         <img src="商標公報一案.png" width="49%" />
         <img src="商標公報一卷期.png" width="49%" />
@@ -11,7 +12,8 @@
     - 商標權及關聯案件／商標申請案
       - [DTD](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/%E5%95%86%E6%A8%99%E6%AC%8A%E5%8F%8A%E9%97%9C%E8%81%AF%E6%A1%88DTD%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
       - 資料範圍：
-      - `Issue` 目前無法順利載入檔案
+      - 資料量：3G
+      - `Issue` 載入檔案慢、無法載入
     - API 服務／商標註冊申請案
       - [DTD](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/%e5%95%86%e6%a8%99API%e8%aa%aa%e6%98%8e%e6%96%87%e4%bb%b6.pdf)
       - 資料同上
