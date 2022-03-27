@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tmarkappl SYSTEM "../tmarkappl-B104.1.0.dtd">
+<tmarkappl create-date="2019/06/26" dtd-version="B104.1.0">
+  <tmarkcontent>
+    <appl-no>100000001</appl-no>
+    <appl-date>2011/01/03</appl-date>
+    <tmark-name>高強及圖</tmark-name>
+    <tmark-class>1</tmark-class>
+    <tmark-class-desc>商標</tmark-class-desc>
+    <tmark-image-url>
+      <image-data-1>https://twtmsearch.tipo.gov.tw/imageLoad.jsp?path=/20160227/100/000/001/pic_100000001_20120706_1.jpg&amp;formatName=jpeg&amp;pathCodeId=282_pic</image-data-1>
+      <image-data-2 />
+      <image-data-3 />
+      <image-data-4 />
+      <image-data-5 />
+      <image-data-6 />
+      <audio-filename />
+    </tmark-image-url>
+    <tmark-type>3</tmark-type>
+    <tmark-type-desc>平面</tmark-type-desc>
+    <tmark-color>1</tmark-color>
+    <tmark-color-desc>墨色</tmark-color-desc>
+    <tmark-draft-c>高強專業珠心算</tmark-draft-c>
+    <tmark-draft-e>PROFESSIONAL ABACUS ARITHMETIC EDUCATION</tmark-draft-e>
+    <tmark-draft-j />
+    <tmark-sign />
+    <word-description />
+    <receive-date>2011/01/03</receive-date>
+    <goodsclasses>
+      <goodsclass sequence="1">
+        <goodsclass-code>041</goodsclass-code>
+        <goods-name>珠算、心算補習班之服務。</goods-name>
+        <goods-group>4103</goods-group>
+      </goodsclass>
+    </goodsclasses>
+    <parties>
+      <applicants>
+        <applicant sequence="1">
+          <chinese-name>私立高強珠心算短期補習班　洪嘉鴻</chinese-name>
+          <english-name />
+          <japanese-name />
+          <address>臺南市南區長南街34號</address>
+          <country-code>TW</country-code>
+          <chinese-country-name>中華民國</chinese-country-name>
+        </applicant>
+      </applicants>
+      <agents>
+        <agent sequence="1">
+          <chinese-name>沈慶慧</chinese-name>
+          <address>臺南市安平區建平五街122號</address>
+        </agent>
+        <agent sequence="2">
+          <chinese-name>林雪美</chinese-name>
+          <address>臺南市安平區建平五街122號</address>
+        </agent>
+      </agents>
+    </parties>
+  </tmarkcontent>
+</tmarkappl>
