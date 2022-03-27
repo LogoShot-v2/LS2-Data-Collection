@@ -17,6 +17,6 @@
     - API 服務／商標註冊申請案
       - [DTD](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/%e5%95%86%e6%a8%99API%e8%aa%aa%e6%98%8e%e6%96%87%e4%bb%b6.pdf)
       - 資料同上
-- 商標公報：[https://tiponet.tipo.gov.tw/Bulletin/trademark](https://tiponet.tipo.gov.tw/Bulletin/trademark)
+- 商標公報（網路公報）：[https://tiponet.tipo.gov.tw/Bulletin/trademark](https://tiponet.tipo.gov.tw/Bulletin/trademark)
 - 商標檢索系統：[https://twtmsearch.tipo.gov.tw/OS0/OS0101.jsp](https://twtmsearch.tipo.gov.tw/OS0/OS0101.jsp)
 - 智慧財產局商標主題網：[https://topic.tipo.gov.tw/trademarks-tw/mp-201.html](https://topic.tipo.gov.tw/trademarks-tw/mp-201.html)
