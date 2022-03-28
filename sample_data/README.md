@@ -23,4 +23,4 @@
 
 
 # II. Data Retrieval
-- 
+- For detailed information, visit https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/FTP_Doc.pdf.
