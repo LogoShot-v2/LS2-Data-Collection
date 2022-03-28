@@ -1,4 +1,4 @@
-# Data-Collection
+# MISC
 
 ## I. Adding SSH Keys to GitHub Account
 - For detailed instructions, visit https://docs.github.com/en/authentication/connecting-to-github-with-ssh.
