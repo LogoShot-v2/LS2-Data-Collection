@@ -1,14 +1,14 @@
 # I. Data Sources
 - 智慧財產權 e 網通：[https://tiponet.tipo.gov.tw/030_OUT_V1/home.do](https://tiponet.tipo.gov.tw/030_OUT_V1/home.do)
   - 專利商標公開資料：[https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD01.aspx](https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD01.aspx)
-    - 商標公報／商標註冊案公報（一案、一卷期）
+    - 商標公報／商標註冊案公報（TrademarkXMLA）
       - [Document Type Definition (DTD)](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/DTD_Trademark.pdf)
       - 資料範圍：第 38 卷第 17 期（民國 100 年 9 月）至今
       - 資料量：22G
         | <img src="商標公報一案.png" /> | <img src="商標公報一卷期.png" /> |
         | :-: | :-: |
         | a. 商標公報（一案） | b. 商標公報（一卷期） |
-    - 商標權及關聯案件／商標申請案
+    - 商標權及關聯案件／商標申請案（Tmarkappl）
       - [DTD](https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/%E5%95%86%E6%A8%99%E6%AC%8A%E5%8F%8A%E9%97%9C%E8%81%AF%E6%A1%88DTD%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.pdf)
       - 資料範圍：可能包含更早期的
       - 資料量：3G
