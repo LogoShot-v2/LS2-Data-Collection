@@ -24,10 +24,3 @@
 
 ## C. Useful Links
 - 智慧財產局商標主題網：[https://topic.tipo.gov.tw/trademarks-tw/mp-201.html](https://topic.tipo.gov.tw/trademarks-tw/mp-201.html)
-
-
-
-# II. Data Retrieval and Processing
-
-- Visit https://tiponet.tipo.gov.tw/Gazette/OpenData/DownLoadFiles/FTP_Doc.pdf for detailed information about the content in the TIPO server.
-- [LogoShot_Database](https://docs.google.com/presentation/d/1fP-8KXt6wI4HbRO-WEgOEjA0Pqv-d1nKVXRivLGPLaY/edit?usp=sharing) shows all the publicly available data sources provided by TIPO and a comparison between `TrademarkXMLA` (trademark1) and `Tmarkappl` (trademark2).
