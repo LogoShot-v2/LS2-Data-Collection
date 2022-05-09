@@ -1,0 +1,16 @@
+DELETE FROM "Agents"
+WHERE "chinese-name" IS NULL
+AND "address" IS NULL;
+
+DELETE FROM "Applicants"
+WHERE "chinese-name" IS NULL
+AND "english-name" IS NULL
+AND "japanese-name" IS NULL
+AND "address" IS NULL
+AND "country-code" IS NULL
+AND "chinese-country-name" IS NULL;
+
+DELETE FROM "Goods"
+WHERE "goodsclass-code" IS NULL
+AND "goods-name" IS NULL
+AND "goods-group" IS NULL;
