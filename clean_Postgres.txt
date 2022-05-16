@@ -14,3 +14,9 @@ DELETE FROM "Goods"
 WHERE "goodsclass-code" IS NULL
 AND "goods-name" IS NULL
 AND "goods-group" IS NULL;
+
+CREATE TABLE "Agents2" AS
+	SELECT
+		DISTINCT "appl-no", "chinese-name", "address"
+	FROM
+	   "Agents";
